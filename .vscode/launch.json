@@ -1,0 +1,29 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "flutter_chatgpt-main",
+        "cwd": "flutter_chatgpt-main",
+        "request": "launch",
+        "type": "dart",
+        "program": "lib/main.dart"
+      },
+      {
+        "name": "flutter_chatgpt-main (profile mode)",
+        "cwd": "flutter_chatgpt-main",
+        "request": "launch",
+        "type": "dart",
+        "flutterMode": "profile",
+        "program": "lib/main.dart"
+      },
+      {
+        "name": "flutter_chatgpt-main (release mode)",
+        "cwd": "flutter_chatgpt-main",
+        "request": "launch",
+        "type": "dart",
+        "flutterMode": "release",
+        "program": "lib/main.dart"
+      }
+    ]
+  }
+  
